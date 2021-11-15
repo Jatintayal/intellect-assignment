@@ -13,4 +13,4 @@ The circular progress can be controlled by the given slider underneath it.
 
 ## Widget 2
 
-The figure will change color as you hover the pointer over different parts.
+The figure will change color as you hover the pointer over different parts. The parts can be selected multiple times as well.
